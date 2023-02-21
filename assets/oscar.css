@@ -1,0 +1,24 @@
+* {
+display: flex;
+}
+.header {
+background-color: #1d0c0c;
+color: white;
+height: 50px;
+flex-direction: column;
+}
+.number {
+height: 50px;
+align-self: start;
+justify-self: end;
+}
+.language {
+height: 50px;
+align-self: start;
+justify-self: end;
+}
+.login{
+height: 50px;
+align-self: start;
+justify-self: end;
+}
